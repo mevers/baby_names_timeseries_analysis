@@ -4,6 +4,7 @@ author: Maurits Evers (maurits.evers@gmail.com)
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output: 
     html_document:
+        keep_md: yes
         fig_height: 4
         fig_width: 7
 ---
