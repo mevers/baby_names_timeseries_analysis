@@ -1,0 +1,16 @@
+base
+babynames
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+zoo
+forecast
+magrittr
+ggpubr
+TSA
